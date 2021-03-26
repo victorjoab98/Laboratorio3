@@ -81,7 +81,7 @@ public class OperarNumeros implements Serializable{
 
     @Override
     public String toString() {
-        return  " " + resultado;
+        return  " Resultado: " + resultado;
     }
     
     
