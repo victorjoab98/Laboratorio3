@@ -1,4 +1,4 @@
 # Laboratorio 3
 
- Prueba 1.2
+ Prueba 2
  
